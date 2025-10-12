@@ -16,3 +16,7 @@ This will include links to all kiCAD libraries I imported as well as all footpri
  - [Switch SPDT 3 Pin PCB 2 Position 1P2T Position 1P2T](https://de.aliexpress.com/item/1005006123805028.html?spm=a2g0o.order_list.order_list_main.5.15fa5c5fMcNYwt&gatewayAdapt=glo2deu)
  ![image](images/switch_2_pos_SK12D07VG4_photo.png)
  ![image](images/switch_2_pos_SK12D07VG4_schematic.png)
+
+## KiCAD_templates
+
+- This folder contains certain PCB design templates and standards for different manufacturors. Kudos to [Seth Hillbrand](https://github.com/sethhillbrand/kicad_templates) for putting these together
