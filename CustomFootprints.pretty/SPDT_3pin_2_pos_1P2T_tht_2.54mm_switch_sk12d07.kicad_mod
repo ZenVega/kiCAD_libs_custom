@@ -1,4 +1,4 @@
-(footprint "SPDT_3pin_2_pos_1P2T_tht_2.54mm_switch"
+(footprint "SPDT_3pin_2_pos_1P2T_tht_2.54mm_switch_sk12d07"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "SPDT_3pin_2_pos_1P2T_tht_2.54mm_switch"
+	(property "Value" "SPDT_3pin_2_pos_1P2T_tht_2.54mm_switch_sk12d07"
 		(at 4 6.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
